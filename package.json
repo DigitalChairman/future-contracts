@@ -58,7 +58,7 @@
     "truffle-hdwallet-provider": "^1.0.17",
     "web3": "^2.0.0-alpha.1"
   },
-  "repository": {DigitalChairman
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/jbethune/future-contracts.git"
   },
